@@ -5,7 +5,7 @@ Tôi đang là sinh viên năm nhất. Học tại TP HCM<br>
 - Khởi tốt lành!!!
 - Chuẩn bị cho năm nhất
 <br>
-❤️‍🔥 Ngôn ngữ yêu thích ❤️‍🔥
+❤️‍🔥 Ngôn ngữ yêu thích ❤️‍🔥 <br>
 ![hinhpython]([https://www.activestate.com/wp-content/uploads/2021/12/python-coding-mistakes.jpg](https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa/fullscreen))
 <br>
 
