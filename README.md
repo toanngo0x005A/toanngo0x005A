@@ -1,4 +1,6 @@
 ### Hi there 👋
+Tôi đang là sinh viên năm nhất. Học tại TP HCM\n
+✨Mong ước của tôi là làm được công việc mình muốn✨
 
 <!--
 **toanngo0x005A/toanngo0x005A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Tôi đang là sinh viên năm nhất. Học tại TP HCM
 -->
