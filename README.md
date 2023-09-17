@@ -6,7 +6,7 @@ Tôi đang là sinh viên năm nhất. Học tại TP HCM<br>
 - Chuẩn bị cho năm nhất
 <br>
 ❤️‍🔥 Ngôn ngữ yêu thích ❤️‍🔥 <br>
-![hinhPython]([[https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fwww.entrepreneur.com%2Fscience-technology%2Fyour-coding-journey-starts-with-python%2F424106&psig=AOvVaw1UVO3hbow7wP-bNwkon4GL&ust=1695035533904000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOC2z8jBsYEDFQAAAAAdAAAAABAN](https://assets.entrepreneur.com/content/3x2/2000/1649279368-Ent-2022Python.jpeg?format=pjeg&auto=webp&crop=16:9&width=675&height=380)](https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80))
+![hinhPython]([[[https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fwww.entrepreneur.com%2Fscience-technology%2Fyour-coding-journey-starts-with-python%2F424106&psig=AOvVaw1UVO3hbow7wP-bNwkon4GL&ust=1695035533904000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOC2z8jBsYEDFQAAAAAdAAAAABAN](https://assets.entrepreneur.com/content/3x2/2000/1649279368-Ent-2022Python.jpeg?format=pjeg&auto=webp&crop=16:9&width=675&height=380)](https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80)](https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80))
 
 <!--
 **toanngo0x005A/toanngo0x005A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
