@@ -8,7 +8,7 @@ Tôi đang là sinh viên năm nhất. Học tại TP HCM<br>
 <br>
 
 ❤️‍🔥 Ngôn ngữ yêu thích ❤️‍🔥 <br>
-<img src="https://www.activestate.com/wp-content/uploads/2021/12/python-coding-mistakes.jpg"alt="HinhPython">
+<img src="https://www.activestate.com/wp-content/uploads/2021/12/python-coding-mistakes.jpg" alt="HinhPython">
 ![hinhPython](https://techvccloud.mediacdn.vn/280518386289090560/2022/5/18/zymmowya-16528506457861135515934-0-18-629-1138-crop-1652851895426110970813.png)
 ![hinhdongPython](https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47r2klvhzkktu320bd61r3tlevnaeoc5xdgd0wze1e&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
