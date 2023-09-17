@@ -9,7 +9,6 @@ Tôi đang là sinh viên năm nhất. Học tại TP HCM<br>
 
 ❤️‍🔥 Ngôn ngữ yêu thích ❤️‍🔥 <br>
 
-# HinhPython
 ![hinhPython](https://camo.githubusercontent.com/d31fa6ad12c50460eb733f6c157a2215e1a3d2e96918694eccaf91aac421bddc/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7068702f7068702d617232312e737667)
 
 <!--
