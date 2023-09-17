@@ -6,7 +6,7 @@ Tôi đang là sinh viên năm nhất. Học tại TP HCM<br>
 - Chuẩn bị cho năm nhất
 <br>
 ❤️‍🔥 Ngôn ngữ yêu thích ❤️‍🔥
-![hinhpython](https://camo.githubusercontent.com/46f980ec8118081ae0adfd3a4de318963ea24ded2e5d5a292efe81d7d3242cef/68747470733a2f2f692e696d6775722e636f6d2f5363704f6f33492e676966](https://www.activestate.com/wp-content/uploads/2021/12/python-coding-mistakes.jpg))<br>
+![hinhpython](https://camo.githubusercontent.com/46f980ec8118081ae0adfd3a4de318963ea24ded2e5d5a292efe81d7d3242cef/68747470733a2f2f692e696d6775722e636f6d2f5363704f6f33492e676966](https://www.activestate.com/wp-content/uploads/2021/12/python-coding-mistakes.jpg)<br>
 
 <!--
 **toanngo0x005A/toanngo0x005A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
