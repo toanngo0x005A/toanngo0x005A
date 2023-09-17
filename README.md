@@ -8,7 +8,7 @@ Tôi đang là sinh viên năm nhất. Học tại TP HCM<br>
 <br>
 
 ❤️‍🔥 Ngôn ngữ yêu thích ❤️‍🔥 <br>
-![hinhPython]((https://www.activestate.com/wp-content/uploads/2021/12/python-coding-mistakes.jpg))
+![hinhPython](https://www.activestate.com/wp-content/uploads/2021/12/python-coding-mistakes.jpg)
 
 <!--
 **toanngo0x005A/toanngo0x005A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
