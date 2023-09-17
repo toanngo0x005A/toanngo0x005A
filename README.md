@@ -1,5 +1,5 @@
 # Hello mọi người 👋
-<img src="https://camo.githubusercontent.com/46f980ec8118081ae0adfd3a4de318963ea24ded2e5d5a292efe81d7d3242cef/68747470733a2f2f692e696d6775722e636f6d2f5363704f6f33492e676966" alt
+<img src="https://camo.githubusercontent.com/46f980ec8118081ae0adfd3a4de318963ea24ded2e5d5a292efe81d7d3242cef/68747470733a2f2f692e696d6775722e636f6d2f5363704f6f33492e676966" alt="">
 
 Tôi đang là sinh viên năm nhất. Học tại TP HCM<br>
 ✨Mong ước của tôi là làm được công việc mình muốn✨
