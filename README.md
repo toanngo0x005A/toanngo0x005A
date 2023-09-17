@@ -1,6 +1,6 @@
 ### Hi there 👋
 Tôi đang là sinh viên năm nhất. Học tại TP HCM<br>
-✨Mong ước của tôi là làm được công việc mình muốn✨<br> 
+✨Mong ước của tôi là làm được công việc mình muốn✨
 - Khởi tốt lành!!!
 
 <!--
