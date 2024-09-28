@@ -1,5 +1,5 @@
 # Hello mọi người 👋
-<img src="https://camo.githubusercontent.com/46f980ec8118081ae0adfd3a4de318963ea24ded2e5d5a292efe81d7d3242cef/68747470733a2f2f692e696d6775722e636f6d2f5363704f6f33492e676966](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXg3b2FqOTQ3eDVhNzBkdjEwY3g1dGEzc2dzYmE1djNicmw1NHFjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.webp)](https://www.funimada.com/assets/images/cards/big/hello-1.gif" alt="Hinhdongchimcanhcuthello">
+<img src="https://www.funimada.com/assets/images/cards/big/hello-1.gif" alt="Hinhdongchimcanhcuthello">
 
 Tôi đang là sinh viên năm nhất. Học tại TP HCM<br>
 ✨Mong ước của tôi là làm được công việc mình muốn✨
